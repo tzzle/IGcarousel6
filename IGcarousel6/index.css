@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #27374D;
+}
+
+.navBar {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.navBar li {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.drk_md_Tggl {
+    padding: 8px;
+    border: none;
+    border-radius: 12px;
+    background: #27374D;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+#tggl1 {
+    background: #F9F5F6;
+
+}
+
+#tggl2 {
+    display: none;
+}
